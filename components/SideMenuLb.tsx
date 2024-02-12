@@ -100,7 +100,7 @@ export default function SideMenuLb({ sideMenu, showMenu, profile }: Props) {
                         className="text-center text-gray-500 text-xl mt-16 mb-10"
                         dir="ltr"
                     >
-                        @AbbasJafari
+                        @MohammadFaazel
                     </p>
                 </div>
             </main>
