@@ -8,6 +8,7 @@ const nextConfig = {
             "media.graphassets.com",
             "res.cloudinary.com",
             "media.dev.to",
+            "eu-central-1-shared-euc1-02.graphassets.com"
         ],
     },
 };
